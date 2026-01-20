@@ -53,10 +53,6 @@ main {
   width: 100%;
 }
 
-.address {
-  font-style: inherit;
-}
-
 .address__item {
   display: block;
   font-size: 18px;
