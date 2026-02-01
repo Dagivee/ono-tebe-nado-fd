@@ -309,7 +309,7 @@ main {
   grid-template-columns: auto 1fr auto;
   padding: 0 50px;
   margin-top: 180px;
-  margin-bottom: 180px;
+  margin-bottom: 90px;
   gap: 140px;
   align-items: flex-start;
 }
